@@ -1,16 +1,33 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving%26color=0:0038A8,100:FFFFFF%26height=200%26section=header%26text=Mehdi%26fontSize=60%26fontColor=0038A8"/>
 
-<!--
-**MehDAsadpour/MehDAsadpour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+AI Journey
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+loading...
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+```
+status: learning
+field: artificial intelligence
+progress: unknown
+```
+
+---
+
+```
+exploring...
+building...
+creating...
+```
+
+---
+
+<p align="center">
+stay curious
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:0038A8&height=100&section=footer"/>
