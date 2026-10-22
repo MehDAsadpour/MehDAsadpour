@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Mehdi Asadpour" />
+<img src="./banner (2).svg" width="100%" alt="Mehdi Asadpour" />
 
 <br/><br/>
 
