@@ -78,7 +78,7 @@ Before moving into AI, I worked as a red team specialist. The role is to think l
 
 <div align="center">
 
-<a href="https://t.me/mehdi_era"><img src="https://skillicons.dev/icons?i=telegram" /></a>&nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mehdi_era)
 <a href="mailto:mehdiasadpour.ai@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 
 </div>
