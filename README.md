@@ -59,7 +59,7 @@ Before moving into AI, I worked as a red team specialist. The role is to think l
 | **vision & deep learning** | machine vision · CNNs · NLP · geometric deep learning |
 | **agents** | agents · tool calling · RAG |
 | **foundations** | statistics · classical machine learning |
-| **learning** | topology |
+| **learning** | Connecting the present and the past |
 | **before** | <img src="./redteam.svg" height="26" alt="red team" /><br/>bug bounty hunting · exploit writing · server defense (ESXi) |
 
 </div>
