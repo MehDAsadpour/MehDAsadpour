@@ -43,7 +43,16 @@ Before moving into AI, I worked as a red team specialist. The role is to think l
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,docker,git,linux,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,docker,git,linux,vmware&theme=light" />
+
+<br/><br/>
+
+
+
+
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo= microsoft&logoColor=white)
+
+
 
 </div>
 
