@@ -43,16 +43,17 @@ Before moving into AI, I worked as a red team specialist. The role is to think l
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,docker,git,linux,vmware&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,docker,git,linux&theme=light" alt="Python, PyTorch, Docker, Git, Linux" />
 
 <br/><br/>
 
-
-
-
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo= microsoft&logoColor=white)
-
-
+<img src="https://img.shields.io/badge/VMware_ESXi-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware ESXi" />
+<img src="https://img.shields.io/badge/Nmap-004370?style=flat-square" alt="Nmap" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Active Directory" />
+<img src="https://img.shields.io/badge/BloodHound-EC1C24?style=flat-square" alt="BloodHound" />
+<img src="https://img.shields.io/badge/Metasploit_Framework-2596CD?style=flat-square" alt="Metasploit Framework" />
 
 </div>
 
